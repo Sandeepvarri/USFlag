@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/USFlag/static/css/main.6b038be0.chunk.css",
+    "main.js": "/USFlag/static/js/main.9f36c7e4.chunk.js",
+    "main.js.map": "/USFlag/static/js/main.9f36c7e4.chunk.js.map",
+    "runtime-main.js": "/USFlag/static/js/runtime-main.35cebcde.js",
+    "runtime-main.js.map": "/USFlag/static/js/runtime-main.35cebcde.js.map",
+    "static/js/2.7dd735bb.chunk.js": "/USFlag/static/js/2.7dd735bb.chunk.js",
+    "static/js/2.7dd735bb.chunk.js.map": "/USFlag/static/js/2.7dd735bb.chunk.js.map",
+    "static/js/3.fc22a91d.chunk.js": "/USFlag/static/js/3.fc22a91d.chunk.js",
+    "static/js/3.fc22a91d.chunk.js.map": "/USFlag/static/js/3.fc22a91d.chunk.js.map",
+    "index.html": "/USFlag/index.html",
+    "static/css/main.6b038be0.chunk.css.map": "/USFlag/static/css/main.6b038be0.chunk.css.map",
+    "static/js/2.7dd735bb.chunk.js.LICENSE.txt": "/USFlag/static/js/2.7dd735bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35cebcde.js",
+    "static/js/2.7dd735bb.chunk.js",
+    "static/css/main.6b038be0.chunk.css",
+    "static/js/main.9f36c7e4.chunk.js"
+  ]
+}
