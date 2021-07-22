@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 function App() {
+  let rows = Array.from(Array(13).keys());
+  let cols = Array.from(Array(20).keys());
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <table>
+        <tbody>
+          {rows.map((row) => <tr key={row}>
+            {
+              cols.map((col) => <td key={col}> </td>)
+            }
+          </tr>)}
+        </tbody>
+      </table>
     </div>
   );
 }
